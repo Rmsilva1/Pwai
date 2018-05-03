@@ -1,6 +1,4 @@
 package teste;
 
-public class NovoTeste
-{
-
+public class NovoTeste{
 }
